@@ -1,0 +1,17 @@
+  *{
+    font-family: "Teachers", sans-serif;
+   
+  }
+  header{
+    background-image: url('https://campuslivettu.com/wp-content/uploads/2020/12/Shopping.jpg');
+    background-repeat: none;
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  footer{
+    background-color: #FF4162;
+    color: white;
+  }
